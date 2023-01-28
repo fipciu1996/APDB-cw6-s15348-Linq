@@ -1,0 +1,15 @@
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw6-s15348-Linq\LinqTutorials\bin\Debug\net7.0\LinqTutorials.exe
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw6-s15348-Linq\LinqTutorials\bin\Debug\net7.0\LinqTutorials.deps.json
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw6-s15348-Linq\LinqTutorials\bin\Debug\net7.0\LinqTutorials.runtimeconfig.json
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw6-s15348-Linq\LinqTutorials\bin\Debug\net7.0\LinqTutorials.dll
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw6-s15348-Linq\LinqTutorials\bin\Debug\net7.0\LinqTutorials.pdb
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw6-s15348-Linq\LinqTutorials\obj\Debug\net7.0\LinqTutorials.csproj.AssemblyReference.cache
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw6-s15348-Linq\LinqTutorials\obj\Debug\net7.0\LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw6-s15348-Linq\LinqTutorials\obj\Debug\net7.0\LinqTutorials.AssemblyInfoInputs.cache
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw6-s15348-Linq\LinqTutorials\obj\Debug\net7.0\LinqTutorials.AssemblyInfo.cs
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw6-s15348-Linq\LinqTutorials\obj\Debug\net7.0\LinqTutorials.csproj.CoreCompileInputs.cache
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw6-s15348-Linq\LinqTutorials\obj\Debug\net7.0\LinqTutorials.dll
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw6-s15348-Linq\LinqTutorials\obj\Debug\net7.0\refint\LinqTutorials.dll
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw6-s15348-Linq\LinqTutorials\obj\Debug\net7.0\LinqTutorials.pdb
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw6-s15348-Linq\LinqTutorials\obj\Debug\net7.0\LinqTutorials.genruntimeconfig.cache
+C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw6-s15348-Linq\LinqTutorials\obj\Debug\net7.0\ref\LinqTutorials.dll
